@@ -1,3 +1,4 @@
+// Author: Proffesor Marina Barsky
 package ass1;
 // Assignment 1 Shufflable interface
 
