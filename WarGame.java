@@ -1,3 +1,5 @@
+// Author: Sage Yanoff
+
 package ass1;
 
 import java.io.*;
