@@ -1,3 +1,4 @@
+// Authors: Proffesor Marina Barsky and Sage Yanoff, most of it is my code code besides the toString method and the declaration of variables.
 package ass1;
 import java.util.Random;
 
