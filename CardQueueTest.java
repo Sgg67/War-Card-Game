@@ -1,3 +1,5 @@
+// Author: Marina Barsky
+
 package ass1;
 
 // Some examples of class usage for Assignment 1.
