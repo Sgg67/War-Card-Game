@@ -1,3 +1,5 @@
+// Author: Marina Barksy
+
 package ass1;
 
 // Card class for Assigment 1. You must use this class as given in the implementation
