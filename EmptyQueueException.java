@@ -1,3 +1,5 @@
+// Proffesor Marina Barsky
+
 package ass1;
 
 public class EmptyQueueException extends RuntimeException {
