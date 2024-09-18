@@ -1,4 +1,4 @@
-// Test file Author: Marina Barsky
+// Test file Author: Proffesor Marina Barsky
 package ass1;
 
 public class Ass1NewTest {
